@@ -6,3 +6,7 @@
 **when** executed, this script will find messages from said group and
 **then** generate topics in a target group, preserving threads, attachments, dates, etc.
 
+## Requires
+
+* Creation of Google Apps Script project https://script.google.com
+* Advanced Google Services: enable `Groups Migration API`
