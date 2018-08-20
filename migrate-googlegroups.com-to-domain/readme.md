@@ -1,4 +1,4 @@
--- Script to copy messages from a GMail mailbox to a target group --
+== Script to copy messages from a GMail mailbox to a target group
 
 `Based on the guidance at https://developers.google.com/admin-sdk/groups-migration/v1/guides/manage-email-migrations`
 
